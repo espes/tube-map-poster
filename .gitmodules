@@ -1,0 +1,3 @@
+[submodule "svg_stack"]
+	path = svg_stack
+	url = https://github.com/astraw/svg_stack.git
